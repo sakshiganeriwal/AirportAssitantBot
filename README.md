@@ -1,0 +1,2 @@
+# AirportAssitantBot
+IEDC funded project. bot which would provide assistance to the passengers at the airport as well as can be used for security purposes (using Raspberry Pi and Arduino). It can be used for answering the queries of the passengers, help them locate the landmarks inside the airport. Consists of 3 main modules: Navigation system(optical retractors and gyroscope), Voice Recognition(speech to text, querry processing, text to speech) and Face detection (OpenCv Haar Cascades)
